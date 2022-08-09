@@ -1,4 +1,4 @@
-#### Employee Management Project: Spring Boot 2 + Spring Data JPA + Swagger 2 Postgresql Database
+#### Employee Management Project: Spring Boot 2 + Spring Data JPA + Swagger 2 Postgresql + Database
 
 ## I- The First Part:
 **** Employee Module:
@@ -20,7 +20,3 @@
 - Swagger 2 Annotations for REST Endpoints
 - Swagger 2 Annotations for Model
 - Launching Swagger UI
-
-##  III- Implementing Filtering for RESTful Service: 
- - Dynamic Filtering for RESTful Service with  MappingJacksonValue,  SimpleBeanPropertyFilter, SimpleFilterProvider
- - Static Filtering with @JsonIgnore and @JsonIgnoreProperties(value={"field1"})
