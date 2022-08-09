@@ -20,3 +20,7 @@
 - Swagger 2 Annotations for REST Endpoints
 - Swagger 2 Annotations for Model
 - Launching Swagger UI
+
+##  III- Implementing Filtering for RESTful Service: 
+ - Dynamic Filtering for RESTful Service with  MappingJacksonValue,  SimpleBeanPropertyFilter, SimpleFilterProvider
+ - Static Filtering with @JsonIgnore and @JsonIgnoreProperties(value={"field1"})
